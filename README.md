@@ -1,4 +1,4 @@
-App Development Projects
+#App Development Projects
 Welcome to my GitHub repository! Here, I will be sharing my journey and projects in Android app development. Each project is an opportunity for me to explore new technologies, apply design principles, and improve my coding skills.
 
 🚀 About This Repository
